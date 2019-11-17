@@ -7,4 +7,4 @@ The loan data used for this analysis represents the performance of Federal Natio
 
 The model acheived an accuracy score of 95% using Ensemble method (Random Forest Classifier) and Synthetic Sampling (SMOTE and K Nearest Neighbors)
 
-Data sets could be downloaded using the foloowing link https://loanperformancedata.fanniemae.com/lppub/index.html#Portfolio
+Data sets could be downloaded using the foloowing link https://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html
